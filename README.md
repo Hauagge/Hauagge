@@ -44,6 +44,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a> <a href="https://www.nestjs.com//" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="typescript" width="40" height="40"/>
+</a> <a href="https://www.nestjs.com//" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="nestjs" width="40" height="40"/>
 </a> </p>
 
 
