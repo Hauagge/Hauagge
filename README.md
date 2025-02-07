@@ -49,6 +49,9 @@
 </a><a href="https://www.rabbitmq.com/" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="nestjs" width="40" height="40" style="max-width: 100%;">
 </a>
+  </a><a href="https://www.rabbitmq.com/" rel="nofollow"> 
+  <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="nestjs" width="40" height="40" style="max-width: 100%;">
+</a>
  </p>
 
 
