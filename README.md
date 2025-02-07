@@ -46,7 +46,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="typescript" width="40" height="40" />
 </a> <a href="https://www.nestjs.com//" target="_blank"style="margin-right: 15px"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="nestjs" width="40" height="40" />
-</a> </p>
+</a><a href="https://www.rabbitmq.com/" rel="nofollow"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="nestjs" width="40" height="40" style="max-width: 100%;">
+</a>
+ </p>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
